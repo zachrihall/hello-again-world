@@ -1,2 +1,3 @@
 # hello-again-world
-This is my first repository learning to use github
+
+Hello there my name is Zach and I study CS and Miami-Dade College :).
